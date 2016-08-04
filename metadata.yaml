@@ -1,0 +1,46 @@
+_repo: What-is-Property--An-Inquiry-into-the-Principle-of-Right-and-of-Government_360
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Proudhon, P.-J. (Pierre-Joseph)
+    alias: Proudhon, Pierre Joseph
+    birthdate: 1809
+    deathdate: 1865
+    gutenberg_agent_id: '199'
+    url: http://www.gutenberg.org/2009/agents/199
+    wikipedia: http://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon
+description: "What Is Property?: or, An Inquiry into the Principle of Right and of\
+  \ Government (French: Qu'est-ce que la propriété ? ou Recherche sur le principe\
+  \ du Droit et du Gouvernement) is an influential work of nonfiction on the concept\
+  \ of property and its relation to anarchist philosophy by the French anarchist and\
+  \ mutualist Pierre-Joseph Proudhon, first published in 1840. In the book, Proudhon\
+  \ most famously declared that \"property is theft\".\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Anarchism
+gutenberg_issued: '1995-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '360'
+  wikidata: Q2713465
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Economics'
+- !lcsh 'Property'
+- !lcc 'HB'
+- GITenberg
+title: What is Property? An Inquiry into the Principle of Right and of Government
+url: http://www.gutenberg.org/ebooks/360
+wikipedia:
+- https://fr.wikipedia.org/wiki/Qu%27est-ce_que_la_propri%C3%A9t%C3%A9_%3F
+- https://zh.wikipedia.org/wiki/%E4%BB%80%E4%B9%88%E6%98%AF%E6%89%80%E6%9C%89%E6%9D%83%EF%BC%9F
+- https://pt.wikipedia.org/wiki/O_Que_%C3%89_a_Propriedade%3F
+- https://fa.wikipedia.org/wiki/%D9%85%D8%A7%D9%84%DA%A9%DB%8C%D8%AA_%DA%86%DB%8C%D8%B3%D8%AA%D8%9F
+- https://es.wikipedia.org/wiki/%C2%BFQu%C3%A9_es_la_propiedad%3F
+- https://en.wikisource.org/wiki/What_is_Property%3F
+- https://en.wikipedia.org/wiki/What_Is_Property%3F
+- https://it.wikipedia.org/wiki/Che_cos%27%C3%A8_la_propriet%C3%A0%3F
+- https://gl.wikipedia.org/wiki/Qu%27est-ce_que_la_propri%C3%A9t%C3%A9%3F
+- https://sv.wikipedia.org/wiki/Qu%27est-ce_que_la_propri%C3%A9t%C3%A9%3F
+- https://fr.wikisource.org/wiki/Qu%E2%80%99est-ce_que_la_propri%C3%A9t%C3%A9_%3F
