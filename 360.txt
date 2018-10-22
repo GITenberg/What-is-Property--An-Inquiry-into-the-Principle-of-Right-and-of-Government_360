@@ -2332,7 +2332,7 @@ thwart the will of their gracious sovereign.
 
 This edifying article of the Declaration of Rights, retained in the
 charters of 1814 and 1830, implies several kinds of civil inequality;
-that is, of inequality before the law: inequality ofstation, since the
+that is, of inequality before the law: inequality of station, since the
 public functions are sought only for the consideration and emoluments
 which they bring; inequality of wealth, since, if it had been desired
 to equalize fortunes, public service would have been regarded as a duty,
@@ -2536,7 +2536,7 @@ CHAPTER II. PROPERTY CONSIDERED AS A NATURAL RIGHT
      CIVIL LAW AS EFFICIENT BASES OF PROPERTY. DEFINITIONS.
 
 The Roman law defined property as the right to use and abuse one's own
-within the limits of the law--jus utendi et abutendi re sua, guatenus
+within the limits of the law--jus utendi et abutendi re sua, quatenus
 juris ratio patitur. A justification of the word ABUSE has been
 attempted, on the ground that it signifies, not senseless and immoral
 abuse, but only absolute domain. Vain distinction! invented as an excuse
@@ -2568,7 +2568,7 @@ There are different kinds of property: 1. Property pure and simple, the
 dominant and seigniorial power over a thing; or, as they term it, NAKED
 PROPERTY. 2. POSSESSION. "Possession," says Duranton, "is a matter of
 fact, not of right." Toullier: "Property is a right, a legal power;
-possession is a fact." The tenant, the farmer, the commandite', the
+possession is a fact." The tenant, the farmer, the commandite, the
 usufructuary, are possessors; the owner who lets and lends for use, the
 heir who is to come into possession on the death of a usufructuary, are
 proprietors. If I may venture the comparison: a lover is a possessor, a
@@ -3074,7 +3074,7 @@ philosophy, we will turn next to law.
 According to Destutt de Tracy, property is a necessity of our nature.
 That this necessity involves unpleasant consequences, it would be
 folly to deny. But these consequences are necessary evils which do not
-invalidate the principle; so that it as unreasonable to rebel against
+invalidate the principle; so that it is as unreasonable to rebel against
 property on account of the abuses which it generates, as to complain
 of life because it is sure to end in death. This brutal and pitiless
 philosophy promises at least frank and close reasoning. Let us see if it
